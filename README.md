@@ -1,0 +1,2 @@
+# AItest
+code about AI
